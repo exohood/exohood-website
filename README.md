@@ -21,3 +21,15 @@ Fork the repository (repo)
 Set up your local environment (optional)
 
 If you're ready to contribute and create your PR, it will help set up a local environment to see your changes.
+
+Wait for review
+
+    The website team reviews every PR
+    See how decisions are made on content changes.
+    Acceptable PRs will be approved & merged into the dev branch.
+
+Release
+
+    master is continually synced to Netlify and will automatically deploy new commits to exohood.com
+    The website team will periodically merge dev into master (typically multiple times per week)
+    You can view the history of releases, which includes PR highlights.
