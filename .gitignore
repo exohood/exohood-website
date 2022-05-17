@@ -1,0 +1,58 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log
+
+# CSS
+dist
+*.css
+!**/_next/static/css/**
+!tokens/tokens.css
+packages/css/pages/styles
+!packages/css/src/props/*.css
+!packages/docs/**/*.css
+!packages/css/upgrades/test-files/**/*.css
+!storybook.css
+
+# docs
+packages/docs/.next
+packages/docs/out
+packages/docs/temp-bundle-sizes.js
+packages/docs/temp-tabular-props.js
+
+# lock
+package-lock.json
+yarn-error.log
+
+# COMPONENTS
+lib
+build
+stats.html
+build-storybook.log
+storybook-static
+
+
+# editors
+.idea
+*.iws
+*.iml
+.history
