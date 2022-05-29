@@ -1,0 +1,43 @@
+------------------------------
+///////Site navigation
+------------------------------  
+  - Home
+  -Ecosystem
+    > Exchange
+    > Exoswap
+    > ExoGames
+    > ExoToken
+    > Token Launchpad
+      * Ethereum
+      * BNB Chain
+      * Polygon
+      * Tron
+      * Tron Game Asset
+    > ExoStore
+  -Community
+      * Community Rules
+      * exowiki/exostaff
+  -Governance
+  -Blog
+  -FAQ
+------------------------------
+///////Information pages
+------------------------------  
+  - Terms of Services
+  - Disclaimer
+  - Privacy Policy
+  - KYC/AML
+  - Whitepaper
+  - How to create a Token
+  - Why US
+  - Support
+  - About US
+------------------------------
+///////External pages
+------------------------------  
+  - Server Status
+ 
+
+ 
+ 
+ 
