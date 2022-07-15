@@ -4,11 +4,12 @@
   - Home
   -Ecosystem
     > Exchange
-    > Exoswap
-    > ExoGames
+    > Exoswap 🚧
+    > ExoGames 🚧
     > ExoToken
     > Token Launchpad
       * Ethereum
+      * EXO Chain 🚧
       * BNB Chain
       * Polygon
       * Tron
@@ -33,11 +34,15 @@
   - Support
   - About US
 ------------------------------
+///////System pages
+------------------------------  
+      * Blockexplorer.exohood.com 🚧
+      * testnet.blockexplorer.exohood.com 🚧
+------------------------------
 ///////External pages
 ------------------------------  
-  - Server Status
- 
-
- 
- 
- 
+  - Server Status 🟢
+ ------------------------------
+///////Map Wiki
+------------------------------  
+    🚧 Under Construction
