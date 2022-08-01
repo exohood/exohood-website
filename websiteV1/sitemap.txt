@@ -12,8 +12,6 @@
       * EXO Chain 🚧
       * BNB Chain
       * Polygon
-      * Tron
-      * Tron Game Asset
     > ExoStore
   -Community
       * Community Rules
