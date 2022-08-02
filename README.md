@@ -1,3 +1,5 @@
+![Title](banner.png)
+
 # 👋 Welcome to Exohood.com!
 This is the repo for the Exohood.com website, a resource for the Exohood community. The site's purpose is to "Be the best portal to Exohood for our growing global community" - read more about what this means here.
 
