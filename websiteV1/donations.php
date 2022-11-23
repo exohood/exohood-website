@@ -291,7 +291,7 @@ var zilla_likes = {"ajaxurl":"https:\/\/www.exohood.com\/wp-admin\/admin-ajax.ph
 	Subscribe to our EXO newsletter and stay up to date with all events coming straight:
 </p>
 <p class="area">
-	<input type="email" name="EMAIL" placeholder="Your E-mail address" required />
+	<input type="email" name="EMAIL" placeholder="Your E-mail address" required/>
 </p>
 <p class="button">
 	<input type="submit" value="subscribe" />
@@ -354,7 +354,8 @@ if (urlFields) {
 		urlFields[j].addEventListener('blur', maybePrefixUrlField);
 	}
 }
-})();</script><link rel='stylesheet' id='cdbbp-styles-css'  href='https://www.exohood.com/wp-content/plugins/cryptocurrency-donation-box-pro/assets/css/cdbbp-styles.css?ver=1.0' type='text/css' media='all' />
+})();</script><link rel='stylesheet' id='cdbbp-styles-css'  
+		    href='https://www.exohood.com/wp-content/plugins/cryptocurrency-donation-box-pro/assets/css/cdbbp-styles.css?ver=1.0' type='text/css' media='all' />
 <style id='cdbbp-styles-inline-css' type='text/css'>
 
 							ul.cdbbp-tabs li.cdbbp-coins.current,
