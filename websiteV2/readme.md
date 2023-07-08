@@ -1,4 +1,4 @@
-# Project Website V2 Evolution
+# Exohood Project Website V2 Evolution
 
 Welcome to the README file for the evolution of our website from V1 to V2. This document provides an overview of the changes made and the improvements incorporated into our website to enhance user interaction and experience.
 
