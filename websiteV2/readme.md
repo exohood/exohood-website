@@ -34,6 +34,8 @@ e. Java
 
 f. Python
 
+h. Solidity
+
 # Getting Started
 
 To explore the new V2 website, follow these steps:
