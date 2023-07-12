@@ -1,4 +1,4 @@
-
+![Title](solidity-logo.svg)
 
 # Solidity Lang Website
 
