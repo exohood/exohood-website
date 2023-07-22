@@ -22,7 +22,7 @@ The goal of this project was to structure and upgrade our website to V2, focusin
 
 The website V2 development includes the use of the following programming languages:
 
-a. HTML
+a. HTML5
 
 b. CSS
 
@@ -40,12 +40,13 @@ h. Solidity
 
 To explore the new V2 website, follow these steps:
 
-1. Clone the repository: git clone [pending ⚠️]
+1. Clone the repository
 
-2. Install the required dependencies: [pending ⚠️]
+2. Install the required dependencies
 
-3. Run the website locally: [pending ⚠️]
-Feedback and Contributions
+3. Run the website locally
+
+# Feedback and Contributions
 
 We welcome your feedback and contributions to further improve our website. If you encounter any issues or have suggestions, please open an issue in the repository or submit a pull request.
 
