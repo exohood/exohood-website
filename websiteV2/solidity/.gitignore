@@ -1,0 +1,18 @@
+node_modules
+.next
+.vscode
+.DS_Store
+.env
+
+# rss feeds
+feed.xml
+
+# Sitemaps
+sitemap*.xml
+
+# Robots.txt
+robots.txt
+
+# Build folders
+build
+docs
