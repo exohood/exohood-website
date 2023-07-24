@@ -1,0 +1,41 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "xpunk7",
+      "name": "JJ Uzumaki"
+      "profile": "https://github.com/xpunk7",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "elakuromi",
+      "name": "Ela Kuromi"
+      "profile": "https://github.com/elakuromi",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ShiraOtsuki",
+      "name": "Shira Otsuki"
+      "profile": "https://github.com/ShiraOtsuki",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 3,
+  "projectName": "exohood.com",
+  "projectOwner": "Exohood Labs",
+  "repoType": "github",
+  "repoHost": "https://github.com/exohood",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
+}
