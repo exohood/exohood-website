@@ -37,7 +37,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='ct-preloader-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-preloader.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='ct-preloader-css' href='https://exohood.com/ct-preloader.css?ver=6.2.2' type='text/css' media='all' />
 <style id='ct-preloader-inline-css' type='text/css'>
 
 		body:not(.compose-mode) .ct-icon .ct-icon-half-1,
@@ -45,7 +45,7 @@ img.emoji {
 			opacity: 0 !important;
 			}
 </style>
-<link rel='stylesheet' id='ct-reset-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-reset.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-reset-css' href='https://exohood.com/ct-reset.css?ver=6.2.2' type='text/css' media='all' />
 <style id='ct-reset-inline-css' type='text/css'>
 
 		.fullwidth-block {
@@ -55,17 +55,17 @@ img.emoji {
 			transform: translate3d(0, 0, 0);
 		}
 </style>
-<link rel='stylesheet' id='ct-grid-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-grid.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-style-css' href='https://exohood.com/wp-content/themes/cryption/style.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-header-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-header.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-widgets-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-widgets.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-new-css-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-new-css.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='perevazka-css-css-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-perevazka-css.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-grid-css' href='https://exohood.com/css/ct-grid.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-style-css' href='https://exohood.com/style.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-header-css' href='https://exohood.com/css/ct-header.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-widgets-css' href='https://exohood.com/css/ct-widgets.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-new-css-css' href='https://exohood.com/css/ct-new-css.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='perevazka-css-css-css' href='https://exohood.com/css/ct-perevazka-css.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='ct-google-fonts-css' href='//fonts.googleapis.com/css?family=Barlow%3Aregular%2C300%2C800%2C700%7CMontserrat%3A700%2Cregular%7COpen+Sans%3A700&#038;subset=latin-ext%2Clatin%2Ccyrillic-ext%2Cvietnamese%2Ccyrillic%2Cgreek-ext%2Cgreek&#038;ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-custom-css' href='https://exohood.com/wp-content/themes/cryption/css/custom.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css' href='https://exohood.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.9.0' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-additional-blog-1-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-additional-blog-1.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-hovers-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-hovers.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-custom-css' href='https://exohood.com/css/custom.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://exohood.com/plugins/js_composer/assets/css/js_composer.min.css?ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-additional-blog-1-css' href='https://exohood.com/css/ct-additional-blog-1.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-hovers-css' href='https://exohood.com/wp-content/css/ct-hovers.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='jquery-fancybox-css' href='https://exohood.com/wp-content/themes/cryption/js/fancyBox/jquery.fancybox.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='ct-vc_elements-css' href='https://exohood.com/wp-content/themes/cryption/css/ct-vc_elements.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-block-library-css' href='https://exohood.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
@@ -100,15 +100,8 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 <meta name="generator" content="WordPress 6.2.2" />
 <link rel="canonical" href="https://exohood.com/" />
 <link rel='shortlink' href='https://exohood.com/' />
-<link rel="alternate" type="application/json+oembed" href="https://exohood.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexohood.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://exohood.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexohood.com%2F&#038;format=xml" />
-<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
-<meta name="generator" content="Powered by Slider Revolution 6.6.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="https://exohood.com/wp-content/uploads/2022/08/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://exohood.com/wp-content/uploads/2022/08/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://exohood.com/wp-content/uploads/2022/08/cropped-android-chrome-512x512-1-180x180.png" />
-<meta name="msapplication-TileImage" content="https://exohood.com/wp-content/uploads/2022/08/cropped-android-chrome-512x512-1-270x270.png" />
-<script>function setREVStartSize(e){
+<link rel="alternate" type="application/json+oembed" href="https://exohood.com/json/oembed/1.0/embed?url=https%3A%2F%2Fexohood.com%2F" />
+<script>function setV2tartSize(e){
 			//window.requestAnimationFrame(function() {
 				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
 				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
@@ -184,13 +177,13 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 					<div class="entry-content post-content clearfix">
 												
 						
-<div class="wp-block-themepunch-revslider revslider" data-modal="false" data-slidertitle="Zen Header1" style="">
-			<!-- START Zen Header1 REVOLUTION SLIDER 6.6.14 --><p class="rs-p-wp-fix"></p>
+<div class="blockV2" data-modal="false" data-V2title="XLS" style="">
+			<!-- STARTEXOHOOD WEBSITE V2--><p class="rs-p-wp-fix"></p>
 			<rs-module-wrap id="welcome_wrapper" data-source="gallery" style="visibility:hidden;background:#000000;padding:0;">
 				<rs-module id="welcome" class="rs-respect-topbar" style="" data-version="6.6.14">
 					<rs-slides style="overflow: hidden; position: absolute;">
 						<rs-slide style="position: absolute;" data-key="rs-147" data-title="Slide" data-in="o:0;" data-out="a:false;" data-rsparticles='{"enable":true,"hideOnMobile":false,"particles":{"shape":"edge","number":40,"size":2,"random":false},"styles":{"lines":{"enable":true,"opacity":15,"distance":100},"particle":{"color":"#ffffff,#22c8e5","opacityMin":25,"zIndex":"10"}},"movement":{"speed":3,"direction":"top","straight":false},"interactivity":{"hoverMode":"grab"},"grab":{"distance":300,"opacity":25},"pulse":{"opacity":{"min":1}}}'>
-							<img src="//exohood.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:#000000;" data-parallax="off" data-no-retina>
+							<img src="//exohood.com/public/assets/assets/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:#000000;" data-parallax="off" data-no-retina>
 <!--						--><rs-zone id="rrzt_147" class="rev_row_zone_top" style="z-index: 19;"><!--
 
 								--><rs-row
@@ -823,7 +816,7 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 				<rs-module id="features" style="" data-version="6.6.14">
 					<rs-slides style="overflow: hidden; position: absolute;">
 						<rs-slide style="position: absolute;" data-key="rs-151" data-title="Slide" data-in="o:0;" data-out="a:false;" data-rsparticles='{"enable":true,"hideOnMobile":false,"particles":{"shape":"edge","number":40,"size":2,"random":false},"styles":{"lines":{"enable":true,"opacity":15,"distance":100},"particle":{"color":"#ffffff,#22c8e5","opacityMin":25,"zIndex":"1"}},"movement":{"speed":3,"direction":"top","straight":false},"interactivity":{"hoverMode":"grab"},"grab":{"distance":300,"opacity":25},"pulse":{"opacity":{"min":1}}}'>
-							<img src="//exohood.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:linear-gradient(0deg, rgba(34,200,229,1) 0%, rgba(24,140,160,0.5) 30%, rgba(0,0,0,1) 100%);" data-parallax="off" data-no-retina>
+							<img src="//exohood.com/public/assets/assets/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:linear-gradient(0deg, rgba(34,200,229,1) 0%, rgba(24,140,160,0.5) 30%, rgba(0,0,0,1) 100%);" data-parallax="off" data-no-retina>
 <!--						--><rs-zone id="rrzt_151" class="rev_row_zone_top" style="z-index: 32;"><!--
 
 								--><rs-row
@@ -2483,7 +2476,7 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 							--></rs-zone><!--
 -->						</rs-slide>
 						<rs-slide style="position: absolute;" data-key="rs-164" data-title="Slide" data-in="o:0;" data-out="a:false;">
-							<img src="//exohood.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-parallax="off" data-no-retina>
+							<img src="//exohood.com/wp-content/plugins/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-parallax="off" data-no-retina>
 <!--						--><rs-zone id="rrzt_164" class="rev_row_zone_top" style="z-index: 12;"><!--
 
 								--><rs-row
@@ -2669,13 +2662,11 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 
 
 
-<div class="wp-block-themepunch-revslider revslider" data-modal="false" data-slidertitle="Zen Footer1" style="">
-			<!-- START Zen Footer1 REVOLUTION SLIDER 6.6.14 --><p class="rs-p-wp-fix"></p>
 			<rs-module-wrap id="contact_wrapper" data-source="gallery" style="visibility:hidden;background:#000000;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
 				<rs-module id="contact" style="" data-version="6.6.14">
 					<rs-slides style="overflow: hidden; position: absolute;">
 						<rs-slide style="position: absolute;" data-key="rs-167" data-title="Slide" data-in="o:0;" data-out="a:false;" data-rsparticles='{"enable":true,"hideOnMobile":false,"particles":{"shape":"edge","number":40,"size":2,"random":false},"styles":{"lines":{"enable":true,"opacity":15,"distance":100},"particle":{"color":"#82009f,#22c8e5,#ffffff","opacityMin":25,"zIndex":"10"}},"movement":{"speed":3,"direction":"top","straight":false},"interactivity":{"hoverMode":"grab"},"grab":{"distance":300,"opacity":25},"pulse":{"opacity":{"min":1}}}'>
-							<img src="//exohood.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:#000000;" data-parallax="off" data-no-retina>
+							<img src="//exohood.com/wp-content/plugins/assets/dummy.png" alt="Slide" title="Exohood Labs V2" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//exohood.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:#000000;" data-parallax="off" data-no-retina>
 <!--						--><rs-zone id="rrzt_167" class="rev_row_zone_top" style="z-index: 11;"><!--
 
 								--><rs-row
@@ -3055,8 +3046,6 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 								data-rsp_o="off"
 								data-rsp_bd="off"
 								data-video="vfc:true;vd:100;noint:t;l:true;ptimer:false;nse:f;sav:f;afs:f;"
-								data-poster="//exohood.com/wp-content/uploads/revslider/zen-footer/abstractcover.jpg"
-								data-mp4="//exohood.com/wp-content/uploads/revslider/zen-footer/Pexels-Videos-4658.mp4"
 								data-frame_0="y:100px;sX:1.2;sY:1.2;"
 								data-frame_1="sp:2000;"
 								data-frame_999="o:0;st:w;sR:7000;"
@@ -3108,8 +3097,6 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 								data-rsp_bd="off"
 								data-btrans="o:0.5;"
 								data-video="vfc:true;vd:100;noint:t;l:true;ptimer:false;nse:f;sav:f;afs:f;"
-								data-poster="//exohood.com/wp-content/uploads/revslider/zen-footer/abstractcover.jpg"
-								data-mp4="//exohood.com/wp-content/uploads/revslider/zen-footer/Pexels-Videos-4658.mp4"
 								data-frame_0="y:100px;sX:1.2;sY:1.2;"
 								data-frame_1="sp:2000;"
 								data-frame_999="o:0;st:w;sR:7000;"
@@ -3191,51 +3178,17 @@ var zilla_likes = {"ajaxurl":"https:\/\/exohood.com\/wp-admin\/admin-ajax.php"};
 		<link href="https://fonts.googleapis.com/css?family=Inconsolata:700%2C400%7CRoboto:400%7CNunito+Sans:900%2C600%2C400&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
 
 <script>
-		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+		if(typeof revslider_showDoubleJqueryError === "undefined") {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
 </script>
-			<link rel="preload" as="font" id="rs-icon-set-fa-icon-woff" type="font/woff2" crossorigin="anonymous" href="https://exohood.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" media="all" />
-			<link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css" href="https://exohood.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css" media="all" />
-			<link rel="stylesheet" property="stylesheet" id="rs-icon-set-pe-7s-css" href="https://exohood.com/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" type="text/css" media="all" />
-<link rel='stylesheet' id='rs-particles-front-css' href='https://exohood.com/wp-content/plugins/revslider-particles-addon/public/assets/css/revolution.addon.particles.css?ver=3.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css' href='https://exohood.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.14' type='text/css' media='all' />
-<style id='rs-plugin-settings-inline-css' type='text/css'>
+			
 		@font-face{font-family:'Material Icons'; font-style:normal; font-weight:400;  src:url(//fonts.gstatic.com/s/materialicons/v41/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2')}rs-module .material-icons{font-family:'Material Icons'; font-weight:normal; font-style:normal;font-size:inherit; display:inline-block;  text-transform:none; letter-spacing:normal; word-wrap:normal; white-space:nowrap; direction:ltr; vertical-align:top; line-height:inherit;  font-feature-settings:'liga'; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; -moz-osx-font-smoothing:grayscale}
 		.light-bars .tp-bullet{}.light-bars .tp-bullet:before{content:" ";position:absolute;width:100%;height:100%;background:transparent;padding:10px;margin-left:-10px;margin-top:-10px;box-sizing:content-box}.light-bars .tp-bullet{width:60px;height:3px;position:absolute;background:#aaa;  background:rgba(255,255,255,0.5);cursor:pointer;box-sizing:content-box}.light-bars .tp-bullet:hover,.light-bars .tp-bullet.selected{background:rgba(255,255,255,1)}.light-bars .tp-bullet-image{}.light-bars .tp-bullet-title{}
 		a.zenlink,a.zenlink:visited,a.zenlink:focus{color:#22c8e5}a.zenlink:hover{color:#22c8e5;text-decoration:underline}
 </style>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/jquery.dlmenu.js?ver=6.2.2' id='jquery-dlmenu-js'></script>
-<script type='text/javascript' id='ct-menu-init-script-js-extra'>
 /* <![CDATA[ */
 var ct_dlmenu_settings = {"backLabel":"Back","showCurrentLabel":"Show this page"};
 /* ]]> */
-</script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/ct-menu_init.js?ver=6.2.2' id='ct-menu-init-script-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/svg4everybody.js?ver=6.2.2' id='svg4everybody-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/ct-form-elements.js?ver=6.2.2' id='ct-form-elements-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/jquery.easing.js?ver=6.2.2' id='jquery-easing-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/ct-header.js?ver=6.2.2' id='ct-header-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/ct-lazyLoading.js?ver=6.2.2' id='ct-lazy-loading-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/jquery.transform.js?ver=6.2.2' id='jquery-transform-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2' id='jquery-effects-core-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.13.2' id='jquery-effects-drop-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/odometer.js?ver=6.2.2' id='odometr-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/ct-sticky.js?ver=6.2.2' id='ct-sticky-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/functions.js?ver=6.2.2' id='ct-scripts-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/fancyBox/jquery.mousewheel.pack.js?ver=6.2.2' id='jquery-mousewheel-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/fancyBox/jquery.fancybox.pack.js?ver=6.2.2' id='jquery-fancybox-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/fancyBox/jquery.fancybox-init.js?ver=6.2.2' id='fancybox-init-script-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/themes/cryption/js/ct-vc_elements_init.js?ver=6.2.2' id='ct-vc_elements-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7' id='swv-js'></script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/exohood.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://exohood.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7' id='contact-form-7-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.14' defer async id='tp-tools-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.14' defer async id='revmin-js'></script>
-<script type='text/javascript' src='https://exohood.com/wp-content/plugins/revslider-particles-addon/public/assets/js/revolution.addon.particles.min.js?ver=3.3.2' defer async id='rs-particles-front-js'></script>
-<script id="rs-initialisation-scripts">
+
 		var	tpj = jQuery;
 
 		var	revapi64,revapi66,revapi68,revapi70,revapi72,revapi74,revapi76,revapi78;
