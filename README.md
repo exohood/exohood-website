@@ -1,37 +1,112 @@
-![Title](banner.png)
+
+![Exohood Labs](banner.png)
 
 # 👋 Welcome to Exohood.com!
-This is the repo for the Exohood.com website, a resource for the Exohood community. The site's purpose is to "Be the best portal to Exohood for our growing global community" - read more about what this means here.
 
-Exohood.com is improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to manage its evolution. If you're interested in helping to improve exohood.com, find out how to contribute.
+Welcome to the official website repository of **Exohood Labs Inc.**
 
-How to contribute
+Exohood Labs is a private technology research and development company working across artificial intelligence, cybersecurity, blockchain, decentralized finance, software engineering, and digital infrastructure.
 
-This project follows the all-contributors specification. Contributions of any kind are welcome!
+Founded in 2020, the company combines proprietary technology development with selected public research, documentation, and developer resources.
 
-How updates are made to exohood.com:
+**Official Website:** https://exohood.com
 
-Submit an issue
+## About This Repository
 
-    🟢Create a new issue.
-    🟢Comment on the issue (if you'd like to be assigned to it) - that way, our team can give the issue to you.
+This repository was originally created to support the development and publication of Exohood.com through public contributions and community collaboration.
 
-Fork the repository (repo)
+As Exohood Labs has evolved, the website has transitioned to a privately managed corporate development model.
 
-    🟢if you're not sure, here's how to fork the repo.
+**The public contribution program for Exohood.com has been permanently discontinued.**
 
-Set up your local environment (optional)
+This repository is retained for historical reference and does not necessarily represent the current production website, its complete source code, or its internal technical infrastructure.
 
-If you're ready to contribute and create your PR, it will help set up a local environment to see your changes.
+## Website Development
 
-Wait for review
+Exohood.com is developed, maintained, and managed internally by Exohood Labs.
 
-    The website team reviews every PR
-    See how decisions are made on content changes.
-    Acceptable PRs will be approved & merged into the dev branch.
+The company's website architecture, proprietary components, internal systems, and production infrastructure are not available for public development or unrestricted access.
 
-Release
+Changes to the live website are managed through internal development, review, and deployment procedures.
 
-    master is continually synced to Netlify and will automatically deploy new commits to exohood.com
-    The website team will periodically merge dev into master (typically multiple times per week)
-    You can view the history of releases, which includes PR highlights.
+Previously published information concerning community maintained branches, public deployment workflows, or external contributor approvals is no longer applicable.
+
+## External Contributions — Closed
+
+> ⚠️ **PUBLIC DEVELOPMENT AND CONTRIBUTIONS DISCONTINUED**
+>
+> Exohood Labs no longer accepts external contributions to the development or maintenance of Exohood.com.
+>
+> Public pull requests, community development assignments, and third-party website modifications are no longer part of the official development process.
+
+The following activities are no longer supported:
+
+- Public website development contributions.
+- Pull requests for website modifications.
+- Community-managed releases and deployments.
+- External contributor assignments.
+- Requests for access to private source code.
+- Public participation in internal website infrastructure.
+
+Previously published contribution instructions and community development procedures are obsolete.
+
+## Public and Proprietary Technology
+
+Exohood Labs operates a hybrid technology development model.
+
+Selected software, research materials, and technical documentation may be published publicly.
+
+However, the company's core technologies, proprietary algorithms, internal applications, and commercial infrastructure remain private unless explicitly released under applicable licensing terms.
+
+**Public availability of this repository does not imply that the current Exohood.com website or other Exohood Labs technologies are open source.**
+
+Any source code previously published under a valid license remains subject to that license.
+
+No rights to unpublished or proprietary technologies are granted through this repository.
+
+## Repository Status
+
+| Property | Status |
+|---|---|
+| Exohood.com Website | Active |
+| Public Website Development | Discontinued |
+| External Contributions | Closed |
+| Pull Requests | Not Accepted |
+| Community Deployment Access | Unavailable |
+| Production Source Code | Proprietary |
+| Repository Purpose | Historical Reference |
+
+## Security and Maintenance
+
+This repository may contain historical implementations, outdated dependencies, or development configurations that are no longer used in production.
+
+Exohood Labs does not guarantee that the repository reflects the current website or that its contents are suitable for production deployment.
+
+Published materials are provided **"AS IS"**, without warranties of functionality, security, accuracy, or fitness for a particular purpose, to the extent permitted by applicable law.
+
+No ongoing public maintenance, external development assistance, or technical support is provided through this repository.
+
+## Official Information
+
+For current information about Exohood Labs, its research activities, and its technology portfolio, refer to the official corporate website.
+
+- **Website:** https://exohood.com
+- **About Exohood Labs:** https://exohood.com/about/
+- **Manifesto:** https://exohood.com/manifesto/
+- **Documentation:** https://docs.exohood.com
+
+## Final Notice
+
+**Exohood.com remains an active corporate website developed and maintained privately by Exohood Labs Inc.**
+
+This repository is retained exclusively for historical and informational purposes.
+
+The former public website development and community contribution program has been permanently discontinued.
+
+---
+
+**Repository Status: Historical Reference — Public Contributions Closed**
+
+**Website Status: Active — Privately Developed and Maintained**
+
+**© 2020–2026 Exohood Labs Inc.**
